@@ -6,3 +6,6 @@ __pycache__/
 storage01/
 test_chroma_db/
 .vscode/
+
+# ログで見えてはいけないものを出力している可能性があるので、念のため除外
+10_llmbasic/chat.ipynb

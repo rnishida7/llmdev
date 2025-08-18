@@ -9,3 +9,4 @@ test_chroma_db/
 
 # ログで見えてはいけないものを出力している可能性があるので、念のため除外
 10_llmbasic/chat.ipynb
+11_tool/simple.ipynb
